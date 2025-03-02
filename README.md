@@ -122,3 +122,7 @@ dan pada `templates/index.html` Anda perlu memanggil source plot.png tempat Anda
 ```
 <img src="________________________" height="450" width=500>
 ```
+
+## Final Dashboard
+Hasil akhir dari projek ini dapat dilihat di Flask:
+http://127.0.0.1:5000/
