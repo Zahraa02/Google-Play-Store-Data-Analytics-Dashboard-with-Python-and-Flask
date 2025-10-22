@@ -105,10 +105,10 @@ Created four visualizations using **Matplotlib**:
 This project demonstrates the ability to analyze and visualize real-world data using Python and Flask.  By exploring app trends, user ratings, and category insights, it showcases end-to-end data analytics skills, from cleaning and wrangling raw data to deploying a structured, visual dashboard.
 
 
-## 👩🏻‍💻 Author
-**Zahra Nur Anisah**  
-Data Enthusiast | Aspiring Data Scientist  
+## 👩🏻‍💻 Author  
+**Zahra Nur Anisah** – Data Science Enthusiast  
+Passionate about transforming raw data into meaningful business insights through analytics and visualization.  
 
-📧 [Email Me](mailto:your.email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+📧 **Email:** [zahranuranisah@gmail.com](mailto:zahranuranisah@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/zahranuranisah](https://www.linkedin.com/in/zahranuranisah)  
 
